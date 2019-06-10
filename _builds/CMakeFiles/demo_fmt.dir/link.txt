@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo_fmt.dir/sources/demo.cpp.o  -o demo_fmt -lfmt 

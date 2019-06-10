@@ -162,6 +162,21 @@ Scanning dependencies of target demo_fmt
 *build*/
 ```
 
+$ git remote add origin https://github.com/Mihailus2000/lab07-individualWork-.git
+$ git push -u origin master
+Username for 'https://github.com': Mihailus2000
+Password for 'https://Mihailus2000@github.com': 
+Перечисление объектов: 8, готово.
+Подсчет объектов: 100% (8/8), готово.
+При сжатии изменений используется до 4 потоков
+Сжатие объектов: 100% (6/6), готово.
+Запись объектов: 100% (8/8), 8.37 KiB | 2.79 MiB/s, готово.
+Всего 8 (изменения 0), повторно использовано 0 (изменения 0)
+To https://github.com/Mihailus2000/lab07-individualWork-.git
+ * [new branch]      master -> master
+Ветка «master» отслеживает внешнюю ветку «master» из «origin».
+
+$ nano README.md
 
 
 
